@@ -88,8 +88,17 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Image Tools
 
+- [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG and WebP images in the browser.
+- [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
+- [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions without uploads.
+- [JPG to PNG Converter](https://dailytoolkit.app/tools/jpg-to-png-converter) - Convert JPG images to PNG in the browser.
+- [Photopea](https://www.photopea.com) - Free browser-based photo editor.
+- [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG in the browser.
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images in the browser without signup.
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [remove.bg](https://www.remove.bg) - Remove image backgrounds automatically.
+- [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
+- [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
+- [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
 ## Generators
 
