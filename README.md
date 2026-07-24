@@ -20,11 +20,13 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
+- [Diffhero](https://diffhero.app) - Free, browser-based diff checker for text and code with syntax highlighting for ~17 languages, word-level diffing, and JSON-aware comparison. Nothing is uploaded.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
+- [Textbench](https://textbench.app) - 64 free text tools in one page (case conversion, cleanup, encoding, hashing, generators) that run entirely in your browser. Nothing uploaded.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
 
 ## Developer Tools
@@ -60,6 +62,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Finance
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
+- [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
@@ -96,6 +99,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG in the browser.
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images in the browser without signup.
 - [remove.bg](https://www.remove.bg) - Remove image backgrounds automatically.
+- [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200x630 Open Graph images in the browser without signup.
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
