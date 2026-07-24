@@ -66,6 +66,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
 - [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
+- [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 
 ## Health
 
