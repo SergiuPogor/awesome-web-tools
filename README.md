@@ -58,6 +58,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.
 - [Percentage Increase Calculator](https://dailytoolkit.app/tools/percentage-increase-calculator) - Calculate the percentage increase between two values.
 - [Scientific Calculator](https://dailytoolkit.app/tools/scientific-calculator) - Full scientific calculator with trig, logs and more.
+- [Statistics Calculator](https://nutilz.com/statistics-calculator) - Calculate mean, median, mode, standard deviation and quartiles from a list of numbers, free and no signup required.
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
 
 ## Finance
