@@ -107,6 +107,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Generators
 
 - [Tool Name](https://example.com) - One-line description of what it does.
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time and place.
 
 ## Contributing
 
