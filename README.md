@@ -116,7 +116,16 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Generators
 
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [Bitwarden Password Generator](https://bitwarden.com/password-generator) - Generate strong passwords and passphrases.
+- [Favicon.io](https://favicon.io) - Generate favicons from text, images or emoji.
+- [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate relevant hashtags for social posts.
+- [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
+- [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, customizable random passwords.
+- [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text and more.
+- [QR Code Monkey](https://www.qrcode-monkey.com) - Create custom QR codes with logos and colors.
+- [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a project README from a guided form.
+- [readme.so](https://readme.so) - Build a project README with a visual editor.
+- [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for all platforms and devices.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time and place.
 
 ## Contributing
