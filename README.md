@@ -87,7 +87,16 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Design
 
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [Color Converter](https://dailytoolkit.app/tools/color-converter) - Convert colors between HEX, RGB, HSL and more.
+- [Color Hunt](https://colorhunt.co) - Curated color palette inspiration.
+- [Color Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate and export color palettes for your projects.
+- [Coolors](https://coolors.co) - Generate, edit and explore color palettes fast.
+- [CSS Box Shadow Generator](https://dailytoolkit.app/tools/css-box-shadow-generator) - Visually build CSS box-shadow values with live preview.
+- [CSS Gradient](https://cssgradient.io) - Create and customize CSS gradients visually.
+- [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients and copy the code.
+- [CSS Gradient Text Generator](https://dailytoolkit.app/tools/css-gradient-text-generator) - Generate CSS for gradient-filled text.
+- [Haikei](https://haikei.app) - Generate SVG backgrounds, blobs and waves.
+- [Realtime Colors](https://www.realtimecolors.com) - Preview color palettes on a live UI mockup.
 
 ## Image Tools
 
