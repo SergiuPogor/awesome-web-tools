@@ -32,6 +32,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Developer Tools
 
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
+- [Base64 Text Converter](https://nutilz.com/base64) - Encode text or files to Base64 and decode Base64 strings, supports Unicode, no signup.
 - [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML into clean Markdown.
