@@ -21,6 +21,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
 - [Diffhero](https://diffhero.app) - Free, browser-based diff checker for text and code with syntax highlighting for ~17 languages, word-level diffing, and JSON-aware comparison. Nothing is uploaded.
+- [Find and Replace](https://nutilz.com/find-replace) - Free find and replace text online with regex support, case sensitivity and whole word matching. No signup.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
