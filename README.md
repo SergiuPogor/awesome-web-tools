@@ -132,6 +132,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a project README from a guided form.
 - [readme.so](https://readme.so) - Build a project README with a visual editor.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for all platforms and devices.
+- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Create customizable stories from genre, tone, characters and plot details.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time and place.
 
 ## Contributing
