@@ -46,6 +46,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [jwt.io](https://jwt.io) - Decode, verify and generate JSON Web Tokens.
 - [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML with live preview.
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags for any page.
+- [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from domain, root, port and common options.
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Follow a shortened or redirecting URL through every hop, showing status codes, redirect type (301/302/307), and the final destination, server-side with no signup.
 - [regex101](https://regex101.com) - Build, test and debug regular expressions with explanations.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
