@@ -100,6 +100,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Color Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate and export color palettes for your projects.
 - [Coolors](https://coolors.co) - Generate, edit and explore color palettes fast.
 - [CSS Box Shadow Generator](https://dailytoolkit.app/tools/css-box-shadow-generator) - Visually build CSS box-shadow values with live preview.
+- [CSS Filter Generator](https://nutilz.com/css-filter-generator) - Build CSS filter effects visually with live image preview across blur, brightness, contrast and more, copy production-ready CSS instantly, free with no signup.
 - [CSS Gradient](https://cssgradient.io) - Create and customize CSS gradients visually.
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients and copy the code.
 - [CSS Gradient Text Generator](https://dailytoolkit.app/tools/css-gradient-text-generator) - Generate CSS for gradient-filled text.
