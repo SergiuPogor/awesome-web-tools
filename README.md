@@ -50,6 +50,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from domain, root, port and common options.
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Follow a shortened or redirecting URL through every hop, showing status codes, redirect type (301/302/307), and the final destination, server-side with no signup.
 - [regex101](https://regex101.com) - Build, test and debug regular expressions with explanations.
+- [Text Encrypt / Decrypt](https://nutilz.com/text-encrypt-decrypt) - Encrypt and decrypt text with AES-256-GCM entirely in the browser, password-protected, no upload, no signup.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
 
