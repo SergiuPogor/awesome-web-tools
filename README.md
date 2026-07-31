@@ -19,6 +19,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Text Tools
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
+- [Diff Checker](https://nutilz.com/diff-checker) - Compare two blocks of text side by side and highlight added, removed and changed lines instantly, free with no signup.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
 - [Diffhero](https://diffhero.app) - Free, browser-based diff checker for text and code with syntax highlighting for ~17 languages, word-level diffing, and JSON-aware comparison. Nothing is uploaded.
 - [Find and Replace](https://nutilz.com/find-replace) - Free find and replace text online with regex support, case sensitivity and whole word matching. No signup.
