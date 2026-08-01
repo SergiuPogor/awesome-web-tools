@@ -29,6 +29,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
 - [Textbench](https://textbench.app) - 64 free text tools in one page (case conversion, cleanup, encoding, hashing, generators) that run entirely in your browser. Nothing uploaded.
+- [Word Cloud Generator](https://nutilz.com/word-cloud-generator) - Create word clouds from any text with custom colors and max word count, download as PNG, runs entirely in your browser.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
 
 ## Developer Tools
