@@ -36,6 +36,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
 - [Base64 Text Converter](https://nutilz.com/base64) - Encode text or files to Base64 and decode Base64 strings, supports Unicode, no signup.
 - [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
+- [Developer Tools](https://tools.merrt.com.tr) - 20+ browser-based dev tools: JSON/XML/YAML formatters, JWT decoder, diff, hash and more.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
 - [File Hash Checker](https://nutilz.com/file-hash-checker) - Compute SHA-256, SHA-512 and SHA-1 hashes for any file to verify downloads and check integrity, entirely in the browser.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML into clean Markdown.
