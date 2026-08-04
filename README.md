@@ -57,6 +57,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Math & Numbers
 
 - [Calculator.net](https://www.calculator.net) - Huge free library of calculators for almost anything.
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete estimating calculators for slab volume, bag counts, post holes, ready-mix comparisons, and material cost planning.
 - [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.
 - [Desmos](https://www.desmos.com/calculator) - Free advanced online graphing calculator.
 - [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices and savings.
