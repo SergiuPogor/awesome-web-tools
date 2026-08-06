@@ -33,6 +33,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Developer Tools
 
+- [API Status Badges](https://apistatuscheck.com/badges) - Copy a live SVG status badge for any of 62 APIs into a README, refreshed every 5 minutes.
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
 - [Base64 Text Converter](https://nutilz.com/base64) - Encode text or files to Base64 and decode Base64 strings, supports Unicode, no signup.
 - [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
