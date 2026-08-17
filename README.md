@@ -71,6 +71,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.
 - [Desmos](https://www.desmos.com/calculator) - Free advanced online graphing calculator.
 - [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices and savings.
+- [Historical Length Converter](https://www.appergo.com/en/online-tools/conversion/historical-length-converter/index.html) - Convert historical units such as pied du roi, perches and cubits.
 - [Omni Calculator](https://www.omnicalculator.com) - Thousands of calculators across many topics.
 - [Percentage Calculator](https://nutilz.com/percentage-calculator) - Calculate percentages, percentage increase/decrease, and percentage differences instantly, free and no signup required.
 - [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.
