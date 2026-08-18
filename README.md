@@ -51,10 +51,10 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JSON Formatter & Minifier](https://dailytoolkit.app/tools/json-formatter) - Format, validate and minify JSON in the browser, no upload.
 - [JSONLint](https://jsonlint.com) - Validate and format JSON with error reporting.
+- [JieBang Tools](https://jiebang.site) - 170+ free browser-based developer tools: JSON formatter, Base64/URL/HTML encoders, QR code generator, image converter, hash calculator, regex tester, JWT decoder, cron parser and more. No signup, all local processing.
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect a JWT's header, payload and signature.
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Generate signed JWTs for testing and development.
 - [jwt.io](https://jwt.io) - Decode, verify and generate JSON Web Tokens.
-- [JieBang Tools](https://jiebang.site) - 170+ free browser-based developer tools: JSON formatter, Base64/URL/HTML encoders, QR code generator, image converter, hash calculator, regex tester, JWT decoder, cron parser and more. No signup, all local processing.
 - [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML.
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags for any page.
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from domain, root, port and common options.
