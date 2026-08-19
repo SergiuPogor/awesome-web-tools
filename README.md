@@ -17,6 +17,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Generators](#generators)
 
 ## Text Tools
+- [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Converts text into Unicode characters that read the same rotated 180 degrees. No upload.
 - [Anagram Solver](https://nutilz.com/anagram-solver) - Find every valid word from a set of letters, grouped by length, for Scrabble, Words with Friends, and word puzzles. No signup.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
@@ -24,9 +25,12 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
 - [Diffhero](https://diffhero.app) - Free, browser-based diff checker for text and code with syntax highlighting for ~17 languages, word-level diffing, and JSON-aware comparison. Nothing is uploaded.
 - [Find and Replace](https://nutilz.com/find-replace) - Free find and replace text online with regex support, case sensitivity and whole word matching.
+- [Gothic Font Generator](https://intabtools.com/text/gothic-font-generator) - Converts text into Fraktur-style Unicode characters; rendering depends on platform font support.
+- [Invisible Character](https://intabtools.com/text/invisible-character) - Copies invisible/zero-width Unicode characters for blank usernames and messages.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
+- [Small Text Generator](https://intabtools.com/text/small-text-generator) - Converts text into small caps, superscript, and subscript Unicode characters.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
 - [Textbench](https://textbench.app) - 64 free text tools in one page (case conversion, cleanup, encoding, hashing, generators) that run entirely in your browser. Nothing uploaded.
@@ -129,6 +133,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Image Tools
 
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds in the browser.
+- [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compresses an image to a 50KB target size entirely in the browser, no upload.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG in the browser without signup.
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
