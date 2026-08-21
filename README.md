@@ -30,6 +30,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
+- [Slug Generator](https://superhubutils.netlify.app/text/slug-generator) - Create clean, SEO-friendly URL slugs from any text.
 - [Small Text Generator](https://intabtools.com/text/small-text-generator) - Converts text into small caps, superscript, and subscript Unicode characters.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
@@ -68,6 +69,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Text Encrypt / Decrypt](https://nutilz.com/text-encrypt-decrypt) - Encrypt and decrypt text with AES-256-GCM entirely in the browser, password-protected, no upload, no signup.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
+- [User Agent Parser](https://superhubutils.netlify.app/dev/user-agent-parser) - Decode any user agent string into browser, OS and device details, entirely client-side.
 
 ## Math & Numbers
 
@@ -87,6 +89,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Finance
 - [401(k) Calculator](https://nutilz.com/401k-calculator) - Project 401(k) balance at retirement with employer match and IRS limits.
+- [Compound Interest Calculator](https://superhubutils.netlify.app/finance/compound-interest) - Project compound growth with regular contributions, free and no signup.
+- [Currency Converter](https://superhubutils.netlify.app/finance/currency-converter) - Convert between 25+ currencies with live exchange rates, no signup.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
 - [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.
