@@ -160,6 +160,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in your browser with no uploads.
+- [UnHEIC](https://unheic.io/) - Convert HEIC/HEIF to JPG, PNG, PDF or WebP in the browser with no upload.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
 ## Video Tools
