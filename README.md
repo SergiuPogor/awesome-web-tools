@@ -58,7 +58,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to readable dates and times, and convert dates back to Unix timestamps.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting for cleaner, more readable SQL.
 - [File Hash Checker](https://nutilz.com/file-hash-checker) - Compute SHA-256, SHA-512 and SHA-1 hashes for any file to verify downloads and check integrity, entirely in the browser.
-- [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean Markdown.
+- [Hardware Test Tools](https://hardware-test.uwarp.design/) - Free browser diagnostics for webcam, mic, keyboard, mouse, and display; no signup, nothing uploaded.
+- [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean HTML.
 - [JieBang Tools](https://jiebang.site) - 170+ free browser-based developer tools: JSON formatter, Base64/URL/HTML encoders, QR code generator, image converter, hash calculator, regex tester, JWT decoder, cron parser and more. No signup, all local processing.
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [JSON Formatter & Minifier](https://dailytoolkit.app/tools/json-formatter) - Format, validate and minify JSON in the browser, no upload.
