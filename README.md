@@ -99,6 +99,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Bill Sahulat](https://billsahulat.com/) - Check and view utility bills online.
 - [Compound Interest Calculator](https://superhubutils.netlify.app/finance/compound-interest) - Project compound growth with regular contributions, free and no signup.
 - [Currency Converter](https://superhubutils.netlify.app/finance/currency-converter) - Convert between 25+ currencies with live exchange rates, no signup.
+- [Future Value Calculator](https://future-value-calculator.com/) - Project investment growth with monthly deposits, withdrawals, inflation, and lower/middle/higher rate scenarios.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
 - [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.
